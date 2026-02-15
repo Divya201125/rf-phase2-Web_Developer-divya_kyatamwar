@@ -61,4 +61,4 @@ During this phase, I focused on building a responsive **Online Food Ordering Web
 
 ## 🚀 Live Demo  
 You can view the deployed project here:  
-[Live Link](https://delicate-stardust-db5201.netlify.app)
+[Live Link](https://intermediate-task.netlify.app/)
